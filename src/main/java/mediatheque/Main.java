@@ -9,6 +9,7 @@ public class Main {
         mediatheque.addItem( new CD(12, "Sergeant Peppers"));
         mediatheque.printCatalog();
         //mediatheque.printOnlyBooks();
-        //mediatheque.printOnlyCDs();
+        mediatheque.printOnlyCDs();
+        
     }
 }
